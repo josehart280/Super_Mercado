@@ -1,0 +1,23 @@
+Metrica,Valor,Objetivo,Estado
+Ticket Promedio (ATV),"2,506 CRC","> 2,500 CRC",OK
+Items por Ticket,2.71,> 1.8,OK
+Tasa de Descuento,0.03%,< 5%,OK
+Hora Pico,18:00,-,-
+Total Transacciones,"8,164",-,-
+Total Ingresos,"20,456,759 CRC",-,-
+,,,
+--- TOP 10 PRODUCTOS ---,,,
+1. QUESO TURRIALBA,"700,743 CRC",,
+2. PAN FRANCES GRANDE,"393,713 CRC",,
+3. AGUACATE HASS,"259,556 CRC",,
+4. HUEVOS Z,"250,583 CRC",,
+5. MASA SUPER AMERICA AMARILLA 900GS,"200,495 CRC",,
+6. GUARO CACIQUE 365ML,"174,425 CRC",,
+7. OFERTA 1000,"152,212 CRC",,
+8. PECHUGA DE POLLO Z,"145,192 CRC",,
+9. JOHNNIE WALKER RED LABEL,"134,867 CRC",,
+10. MASA BLANCA SUPER AMERICA 900G,"129,950 CRC",,
+,,,
+--- OPORTUNIDADES DE MEJORA ---,,,
+Optimizacion Energetica,JASEC = 8.58% de ingresos,< 2%,OPORTUNIDAD
+Cross-Selling,2.71 items/ticket,> 1.5,OK

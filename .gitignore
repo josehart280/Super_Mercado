@@ -1,0 +1,26 @@
+# Excel files (large binary data)
+*.xlsx
+*.xls
+
+# Power BI
+*.pbix
+*.pbit
+
+# Compressed files
+*.rar
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Virtual environments
+venv/
+env/
+.venv/

@@ -1,0 +1,30 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "mark": "rect",
+  "encoding": {
+    "x": {
+      "field": "Hora",
+      "type": "ordinal",
+      "title": "Hora del Día"
+    },
+    "y": {
+      "field": "Dia",
+      "type": "ordinal",
+      "title": "Día de la Semana",
+      "sort": ["Lunes","Martes","Miércoles","Jueves","Viernes","Sábado","Domingo"]
+    },
+    "color": {
+      "field": "Transacciones Heatmap",
+      "type": "quantitative",
+      "scale": {
+        "scheme": "orangered"
+      },
+      "legend": {"title": "Transacciones"}
+    },
+    "tooltip": [
+      {"field": "Dia",                    "type": "ordinal"},
+      {"field": "Hora",                   "type": "ordinal"},
+      {"field": "Transacciones Heatmap",  "type": "quantitative"}
+    ]
+  }
+}
