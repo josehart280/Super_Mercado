@@ -1,4 +1,4 @@
-"""Heatmap Hora x Dia - SuperAmerica - Optimizado"""
+"""Heatmap Hora x Dia - SuperAmerica -"""
 import os
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -14,7 +14,6 @@ ARCHIVOS = {'Enero': os.path.join(PROJECT_ROOT, 'datos', 'Ventas_Enero.xlsx'),
             'Febrero': os.path.join(PROJECT_ROOT, 'datos', 'Ventas_Febrero.xlsx')}
 
 os.makedirs(REPORTES_DIR, exist_ok=True)
-
 #cargar datos
 def cargar_datos():
     return {mes: pd.read_excel(arch) for mes, arch in ARCHIVOS.items()}
