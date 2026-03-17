@@ -55,8 +55,7 @@ Supermercado git/
 
 Este proyecto fue desarrollado con asistencia de inteligencia artificial:
 
-- **Análisis de datos**: Scripts de Python para procesamiento y visualización
-- **Generación de insights**: Identificación de patrones en ventas
+- **Análisis de datos**: Asistencia en Scripts de Python previamente construidos para procesamiento y visualización
 - **Documentación**: Creación automática de estructura y READMEs
 
 ## Getting Started
@@ -68,4 +67,5 @@ Este proyecto fue desarrollado con asistencia de inteligencia artificial:
 
 ## Licencia
 
-Este proyecto es para fines educativos y de análisis.
+Este proyecto es para fines de análisis y portafolio.
+Tengo Permiso del supermercado para subir esto!
